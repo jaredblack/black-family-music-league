@@ -3,3 +3,4 @@ include
 lib
 share
 .DS_STORE
+pyvenv.cfg
